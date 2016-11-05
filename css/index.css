@@ -1,0 +1,28 @@
+
+body{
+
+}
+
+
+#introduction{
+	width:80%;
+	margin:auto;
+	min-width:410px;	
+  font-size:40px;
+  padding:1em;
+  font-family:"Open Sans", "Arial", sans-serif;
+  color:#555;
+  text-align:center;
+}
+
+#introduction:hover a{
+  color:#9EB8C3;
+}
+  
+#introduction a{
+  text-decoration:none;
+  color: #555;
+}
+
+
+
